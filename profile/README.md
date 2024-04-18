@@ -20,12 +20,12 @@ Welcome to the CCBD Bootcamp Project Repository! This repository is dedicated to
 - After the deadline, contributions will be reviewed.
 - Commits made after the deadline will not be accepted.
 
-**PLEASE #DO NOT USE# any AI tools such as GPTs, Gemini, Claude to generate code or any other external sources as your code will be checked for plagiarism. (The teams who got Project 1 can use GPTs, Gemini, etc only as a reference.)**
+**PLEASE DO NOT USE any AI tools such as GPTs, Gemini, Claude to generate code or any other external sources as your code will be checked for plagiarism. (The teams who got Project 1 can use GPTs, Gemini, etc only as a reference.)**
 
 ## Folder Structure
 - Please maintain a clear and organized folder structure within your repository.
 - Separate folders for code, documentation, resources, etc., can be helpful.
-- You don't need to commit the dataset you are working on.
+- **DO NOT commit the dataset you are working on.**
 
 ## Feedback and Support
 - If you have any questions or need assistance, feel free to reach out to us at CCBD, 11th Floor B-Block.
