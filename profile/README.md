@@ -5,11 +5,11 @@ Welcome to the CCBD Bootcamp Project Repository! This repository is dedicated to
 ## Instructions for Students
 
 ### Repository Creation
-- Each team should create a new repository for their project.
-- The repository name should follow the format: `TEAM_NAME-PROJECT_NO`.
-  - Replace `TEAM NAME` with your team's name.
-  - Replace `PROJECT_NO` with the assigned project number.
-  - Example: If your team name is `Nebula Innovators` and Project No is `1`, the repository name should be `Nebula_Innovators-1`.
+- Each team will be invited to a new repository for their project.
+- The repository name is in the format: `TEAM_NAME-PROJECT_NO`.
+  - `TEAM NAME` is your team's name.
+  - `PROJECT_NO` is the assigned project number.
+  - Example: If your team name is `Nebula Innovators` and Project No is `1`, the repository name is `Nebula_Innovators-1`.
 
 ### Continuous Development
 - This repository is not just for one-time pushes at the end of the project.
@@ -20,12 +20,13 @@ Welcome to the CCBD Bootcamp Project Repository! This repository is dedicated to
 - After the deadline, contributions will be reviewed.
 - Commits made after the deadline will not be accepted.
 
-**PLEASE DO NOT USE any AI tools such as GPTs, Gemini, Claude to generate code or any other external sources as your code will be checked for plagiarism. (The teams who got Project 1 can use GPTs, Gemini, etc only as a reference.)**
+# **PLEASE DO NOT USE any AI tools such as GPTs, Gemini, Claude to generate code or any other external sources as your code will be checked for plagiarism. (The teams who got Project 1 can use GPTs, Gemini, etc only as a reference.)**
 
 ## Folder Structure
 - Please maintain a clear and organized folder structure within your repository.
 - Separate folders for code, documentation, resources, etc., can be helpful.
-- **DO NOT commit the dataset you are working on.**
+
+# **DO NOT commit the dataset you are working on.**
 
 ## Feedback and Support
 - If you have any questions or need assistance, feel free to reach out to us at CCBD, 11th Floor B-Block.
